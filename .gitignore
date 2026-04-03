@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.cache/
+*.map
+tsconfig.tsbuildinfo
+.local/
+attached_assets/
+pnpm-lock.yaml
+.upm/
